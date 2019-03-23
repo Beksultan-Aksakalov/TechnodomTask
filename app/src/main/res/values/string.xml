@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TechnodomTask</string>
+    <string name="product_name" tools:ignore="StringEscaping">Notebook Apple MacBook Pro 13" Retina 512 (MF841RS/A)</string>
+    <string name="product_characteristic" tools:ignore="StringEscaping">13.3' 2560x1600 | Intel Core i5 5287U | RAM 8 | SSD 512 | MAC OS X | Вес 1,56 кг</string>
+    <string name="stock_description">"Если вы купите данный товар, то в дополнение к товару получите в подарок аксессуары! Предложение действуюет до 22 сентября 2017 г."</string>
+    <string name="guarantee_description">Отправьте ссылку на данный товар, и получайте 110% компенсации разницы в цене или покупайте выбранный товар по цене конкурента.</string>
+    <string name="show_window_description">Он стал еще быстрее и мощнее. Легче и тоньше. У него самый яркий экран и лучшая цветопередача среди всех ноутбуков Mac. Врпервые в его клавиатуру встроена стеклянная сенсорная панель Touch Bar с поддержкой жестов...</string>
+</resources>
